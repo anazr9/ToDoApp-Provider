@@ -1,1 +1,1 @@
-# To Do App in flutter using Provider state managemnet
+# To Do App in flutter using Provider state management
